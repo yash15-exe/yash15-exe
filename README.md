@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Raikar</h1>
-<h3 align="center">A Passionate MERN Developer from INDIA</h3>
+<h3 align="center">A Passionate Software Developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash15-exe&label=Profile%20views&color=0e75b6&style=flat" alt="yash15-exe" /> </p>
 
