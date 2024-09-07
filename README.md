@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashraikar.dev@gmail.com**
 
-- ⚡ Fun fact **I m a boring nerd....**
+- ⚡ Fun fact **I love trains**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
