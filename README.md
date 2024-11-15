@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash15-exe&show_icons=true&locale=en&layout=compact" alt="yash15-exe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash15-exe&show_icons=true&locale=en" alt="yash15-exe" /></p>
+
