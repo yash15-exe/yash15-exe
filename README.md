@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash15-exe&label=Profile%20views&color=0e75b6&style=flat" alt="yash15-exe" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yash-raikar.vercel.app/](https://yash-raikar.vercel.app/)
+- 👨‍💻 All of my projects are available at [YASH RAIKAR](https://yash-raikar.vercel.app/)
 
 - 🔭 I’m currently working on [SOLEMATE](https://solemate-app.vercel.app/)
 
